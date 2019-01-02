@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic Tac Toe in Python 3.
+Tic Tac Toe.
